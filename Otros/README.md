@@ -48,13 +48,4 @@ Si quieres ejecutar este proyecto en tu máquina local:
     ```
     *Ahora, cualquier archivo que pegues en la carpeta del proyecto será organizado automáticamente.*
 
-## 📸 Demo
 
-*(Aquí puedes insertar un GIF o captura de pantalla de tu terminal funcionando)*
-
-## 👤 Autor
-
-**Agustín** - [Tu LinkedIn] - [Tu Portfolio]
-
----
-*Este proyecto fue creado con fines educativos para demostrar habilidades en Scripting y Automatización con Python.*
